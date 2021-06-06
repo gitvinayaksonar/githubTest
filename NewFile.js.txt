@@ -1,2 +1,4 @@
 console.log('hi..')
 how are u planning learn git ?
+
+Now i get it how to git push to dev branch
