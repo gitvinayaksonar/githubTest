@@ -14,3 +14,7 @@ Now i get it how to git push to dev branch
 
 
 I am tuesday
+
+
+I am changed in feature branch created out of sprint branch....
+Newly added line
